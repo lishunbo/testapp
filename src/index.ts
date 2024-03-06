@@ -1,6 +1,6 @@
 import { version } from './version';
 
-console.log('abc', version);
+console.log('xefgx', version);
 
 export default function HelloDemo(a: number, b: number) {
   console.log('helloDemo', a + b);
