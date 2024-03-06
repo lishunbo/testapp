@@ -1,7 +1,7 @@
 
 import {version} from './version'
 
-console.log("abc", version)
+console.log("xefgx", version)
 
 export default function HelloDemo() {
   console.log('helloDemo')
